@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My favorite dishes</title>
+</head>
+<body>
+    <h2>Recipes</h2>
+    <a href="pages/ceasar_salad.html">Ceasar Salad recipe</a>
+    <p>
+        <img src="photos/caesar-salad-bowl.jpg" width="250">
+    </p>
+    <a href="pages/pasta_bolognese.html">Pasta Bolognese</a>
+    <p>
+        <img src="photos/pasta.jpg" width="250">
+    </p>
+    <a href="pages/cheesecake.html">Basic Cheesecake</a>
+    <p>
+        <img src="photos/cheesecake.jpg" width="250">
+    </p>
+</body>
+</html>
